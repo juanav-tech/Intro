@@ -1,4 +1,4 @@
-import streamlit as st<
+import streamlit as st
 from PIL import Image
 
 st.title("La primera app de Juana en Streamlit")
